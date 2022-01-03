@@ -1,0 +1,30 @@
+body {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+    color: navy;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading {
+    font-size:30px;
+    color:goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nameObjects {
+    color: crimson;
+    font-size: 25px;
+}
+
+hr {
+    width: 40%;
+    background-color:darkolivegreen;
+    height: 4px;
+}
+
+#camera, #result {
+    border: 3px dashed navy;
+    width: 350px;
+    height: 300px;
+}
